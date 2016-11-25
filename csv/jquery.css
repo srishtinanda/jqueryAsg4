@@ -1,0 +1,41 @@
+ body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      background-color: lightblue;
+    }
+    p {font-size: 16px;}
+    .margin {margin-bottom: 45px;}
+    .bg-1 {
+      background-color: #1abc9c; 
+      color: #ffffff;
+    }
+    .bg-1 img{
+      padding-top: 40px;
+    }
+    .bg-2 {
+      background-color: #474e5d; 
+      color: black;
+    }
+    
+    .container-fluid {
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
+    .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+    }
+    .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+    }
+    .bg-3 ul{
+        text-align: center;
+    }
+    #data{
+      color: black;
+    }
