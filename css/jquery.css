@@ -33,9 +33,20 @@
     .navbar-nav  li a:hover {
       color: #1abc9c !important;
     }
-    .bg-3 ul{
-        text-align: center;
+    #data ul{
+      padding-top: 100px;
+    }
+    #data li{
+      list-style: none;
+      text-align: center;
     }
     #data{
-      color: black;
+      color: black; 
+    }
+    #data img{
+      width: 300px;
+      height: 375px;
+    }
+    #label{
+      padding-left:500px;
     }
